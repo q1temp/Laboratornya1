@@ -39,6 +39,7 @@
 
 
 \### Тестирование
+
 <img width="632" height="151" alt="Image" src="https://github.com/user-attachments/assets/54ab275c-4a9f-4fdb-a2fe-c5082bcc744d" />
 
 
@@ -87,6 +88,7 @@
 
 
 \### Тестирование
+
 <img width="685" height="90" alt="Image" src="https://github.com/user-attachments/assets/ae656ca5-a418-4305-b314-bd36545e9bc9" />
 
 
